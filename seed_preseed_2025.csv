@@ -1,0 +1,50 @@
+Company,Round_Size_USD,Stage,Vertical,Sub_Vertical,Location_City,Location_Country,Region,AI_Related,Valuation_USD,Lead_Investors,Date_Announced
+Thinking Machines Lab,2000000000,Seed,AI,Foundation Models,San Francisco,USA,North America,Yes,12000000000,"a16z, Nvidia, Accel, AMD",Jul-2025
+Unconventional AI,475000000,Seed,AI,Neuromorphic Computing,San Francisco,USA,North America,Yes,4500000000,"a16z, Lightspeed, Lux, DCVC",Dec-2025
+Periodic Labs,300000000,Seed,AI,AI Scientist,San Francisco,USA,North America,Yes,,"Felicis, a16z, Nvidia, Lightspeed, Khosla",Sep-2025
+Lila Sciences,200000000,Seed,AI,Science,Cambridge,USA,North America,Yes,,Flagship Pioneering,Mar-2025
+LMArena,100000000,Seed,AI,Benchmarking,Berkeley,USA,North America,Yes,600000000,"a16z, UC Investments",May-2025
+Upscale AI,100000000,Seed,AI,Infrastructure,USA,USA,North America,Yes,,"Maverick Silicon, Mayfield, Stanford",Sep-2025
+Amca,76500000,Seed,Aerospace,Aviation,El Segundo,USA,North America,No,,,Apr-2025
+Gradium,70000000,Seed,AI,General,USA,USA,North America,Yes,,FirstMark,Dec-2025
+Edison,70000000,Seed,AI,General,USA,USA,North America,Yes,,Spark Capital,Dec-2025
+Axiom Math,64000000,Seed,AI,Mathematics,USA,USA,North America,Yes,300000000,,2025
+Mirelo,41000000,Seed,AI,Video/Audio,USA,USA,North America,Yes,,"Index Ventures, a16z",Dec-2025
+Samaya,43500000,Seed + Series A,AI,Financial Services,USA,USA,North America,Yes,,,2025
+Neurable,35000000,Series A,Healthtech,Brain Wearables,Boston,USA,North America,Yes,,,Dec-2025
+Truemed,34000000,Series A,Fintech,Wellness,USA,USA,North America,No,,,Dec-2025
+imper.ai,28000000,Series A,AI,Cybersecurity,New York,USA,North America,Yes,,,Dec-2025
+GetVocal AI,26000000,Series A,AI,Customer Service,Paris,France,Europe,Yes,,,Dec-2025
+Bedrock Data,25000000,Series A,Cybersecurity,Data Security,USA,USA,North America,No,,,Dec-2025
+Lucidean,18000000,Seed,AI,Infrastructure,USA,USA,North America,Yes,,,2025
+FINNY,17000000,Series A,Fintech,Advisory,New York,USA,North America,Yes,,Venrock,Dec-2025
+Red Queen Bio,15000000,Seed,AI,Biosecurity,USA,USA,North America,Yes,,OpenAI,Dec-2025
+Multifactor,15000000,Seed,Cybersecurity,Identity,San Francisco,USA,North America,No,,YC,Dec-2025
+Leona,14000000,Seed,AI,General,USA,USA,North America,Yes,,a16z,Dec-2025
+Amphix Bio,12500000,Seed,Biotech,General,Chicago,USA,North America,No,,,2025
+Unlimited Industries,12000000,Seed,AI,General,USA,USA,North America,Yes,,a16z,Dec-2025
+Supper,11000000,Seed,Consumer,Food,USA,USA,North America,No,,Union Square Ventures,Dec-2025
+Lemon Slice,10500000,Seed,AI,Digital Avatars,San Francisco,USA,North America,Yes,,"Matrix Partners, YC",Dec-2025
+Milestone,10000000,Seed,AI,ROI Tracking,USA,USA,North America,Yes,,"Heavybit, Hanaco",Nov-2025
+SanegeneBio,110000000,Series B,Biotech,RNAi,USA,USA,North America,No,,,Dec-2025
+The General Intelligence Company,8700000,Seed,AI,General,USA,USA,North America,Yes,,Union Square Ventures,Dec-2025
+Dazzle AI,8000000,Seed,AI,Personal Assistant,USA,USA,North America,Yes,35000000,"Forerunner, Kleiner Perkins",Dec-2025
+Matters.AI,7750000,Seed + Pre-Seed,AI,Enterprise,India,India,Asia,Yes,,"Endiya, Kalaari, Better Capital",2025
+Loonen,6000000,Seed,Consumer,General,USA,USA,North America,No,,Brand Foundry Ventures,Dec-2025
+Eikona,5000000,Seed,AI,Marketing,Tel Aviv,Israel,Middle East,Yes,,,Dec-2025
+Luminal,5300000,Seed,AI,GPU Framework,USA,USA,North America,Yes,,"Felicis, Paul Graham",Nov-2025
+Track Titan,5000000,Seed,AI,Motorsport,UK,UK,Europe,Yes,,,Dec-2025
+Vibranium Labs,4600000,Seed,AI,General,USA,USA,North America,Yes,,,2025
+Coinbax,4200000,Seed,Crypto,Payments,USA,USA,North America,No,,,2025
+Kingpin,3500000,Seed,Enterprise SaaS,B2B Retail,Dubai,UAE,Middle East,Yes,,,Dec-2025
+Gambit Cyber,3400000,Seed,AI,Cybersecurity,USA,USA,North America,Yes,,,Dec-2025
+Beycome,2500000,Seed,Proptech,Real Estate,USA,USA,North America,No,,,2025
+Ciphero,2500000,Pre-Seed,AI,Security,USA,USA,North America,Yes,,,Dec-2025
+Soxton,2500000,Pre-Seed,AI,Legal,USA,USA,North America,Yes,,,Dec-2025
+Newera.ai,2100000,Pre-Seed,AI,Enterprise,Riyadh,Saudi Arabia,Middle East,Yes,,Embark,Dec-2025
+Empromptu,2000000,Pre-Seed,AI,Enterprise Apps,USA,USA,North America,Yes,,Precursor Ventures,Dec-2025
+ZeroAvia,150000000,Series D,Cleantech,Aviation,Hollister,USA,North America,No,,,Dec-2025
+Erebor Bank,350000000,Series D,Fintech,Crypto Banking,USA,USA,North America,No,,,Dec-2025
+AI Proteins,41500000,Series A,AI,Biotech,Boston,USA,North America,Yes,,,Dec-2025
+SciNeuro Pharmaceuticals,53000000,Series A,Biotech,Neurology,USA,USA,North America,No,,,Dec-2025
+Spark Cleantech,33000000,Series A,Cleantech,Industrial Energy,Paris,France,Europe,No,,,Dec-2025

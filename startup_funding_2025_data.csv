@@ -1,0 +1,55 @@
+Company,Round_Size_USD,Stage,Vertical,Sub_Vertical,Location_City,Location_Country,Region,AI_Related,AI_Type,Valuation_USD,Lead_Investors,Date_Announced
+OpenAI,40000000000,Growth,AI,Foundation Models,San Francisco,USA,North America,Yes,Core AI,500000000000,SoftBank,2025
+Anthropic,13000000000,Series F,AI,Foundation Models,San Francisco,USA,North America,Yes,Core AI,183000000000,"Iconiq, Fidelity, Lightspeed",Sep-2025
+Project Prometheus,6200000000,Seed,AI,Physical AI/Robotics,San Francisco,USA,North America,Yes,Physical AI,,Jeff Bezos,2025
+Databricks,4000000000,Series L,AI,Data Infrastructure,San Francisco,USA,North America,Yes,AI Infrastructure,134000000000,,2025
+Anysphere (Cursor),2300000000,Growth,AI,Developer Tools,San Francisco,USA,North America,Yes,AI Tools,,"Accel, Coatue",2025
+Thinking Machines Lab,2000000000,Seed,AI,Foundation Models,San Francisco,USA,North America,Yes,Core AI,10000000000,Various,2025
+Lambda,1500000000,Growth,AI,Infrastructure,San Francisco,USA,North America,Yes,AI Infrastructure,,TWG Global,2025
+Cerebras Systems,1100000000,Series G,AI,Infrastructure,Sunnyvale,USA,North America,Yes,AI Infrastructure,8100000000,"Fidelity, Atreides Management",2025
+Kalshi,1000000000,Growth,Fintech,Prediction Markets,New York,USA,North America,No,,,Sequoia Capital,2025
+Kailera Therapeutics,600000000,Series B,Biotech,Obesity,Boston,USA,North America,No,,,Various,2025
+Quantinuum,600000000,Series B,DeepTech,Quantum Computing,Broomfield,USA,North America,Partially,Quantum-AI,,Nvidia,Aug-2025
+Chaos Industries,510000000,Growth,Defense Tech,Counter-Drone,USA,USA,North America,Yes,AI Defense,4500000000,Valor Equity Partners,2025
+NinjaOne,500000000,Series C Extension,Cybersecurity,IT Management,Austin,USA,North America,Partially,,,Iconiq Growth,Feb-2025
+Unconventional AI,475000000,Seed,AI,General AI,San Francisco,USA,North America,Yes,Core AI,4500000000,"Andreessen Horowitz, Lightspeed",Dec-2025
+Field AI,405000000,Series B,AI,Robotics/Autonomous,USA,USA,North America,Yes,Physical AI,,Various,Aug-2025
+Cognition AI (Devin),400000000,Series C,AI,Developer Tools,San Francisco,USA,North America,Yes,AI Tools,10200000000,Founders Fund,2025
+Apptronik,350000000,Growth,Robotics,Humanoid,Austin,USA,North America,Yes,Physical AI,,"B Capital, Capital Factory, Google",2025
+Lila Sciences,350000000,Series A,AI,Science/Biotech,San Francisco,USA,North America,Yes,AI for Science,,"Braidwell, Collective Global",2025
+Tubulis,361000000,Series C,Biotech,ADC Therapeutics,Munich,Germany,Europe,No,,,Various,2025
+Ramp,300000000,Extension,Fintech,Expense Management,New York,USA,North America,Partially,AI-Enhanced,32000000000,Lightspeed,2025
+Periodic Labs,300000000,Seed,AI,Science,San Francisco,USA,North America,Yes,AI for Science,,"Felicis, Andreessen Horowitz, Nvidia",2025
+Function Health,298000000,Series B,Healthtech,Diagnostics,Austin,USA,North America,No,,2500000000,Redpoint,2025
+Kardigan,254000000,Series B,Biotech,Cardiovascular,USA,USA,North America,No,,,"T. Rowe Price, Fidelity, Sequoia Heritage",2025
+Sesame,250000000,Series B,AI,Voice AI,San Francisco,USA,North America,Yes,Voice AI,,"Sequoia, Spark Capital",2025
+Island,250000000,Series E,Cybersecurity,Browser Security,USA,USA,North America,Partially,,4800000000,Coatue Management,2025
+K2 Space,250000000,Series C,Space Tech,Spacecraft,USA,USA,North America,No,,3000000000,Various,2025
+Airalo,220000000,Series C,Telecom,eSIM,Singapore,Singapore,Asia,No,,,Various,2025
+OpenEvidence,200000000,Series C,AI,Healthcare,USA,USA,North America,Yes,AI Healthcare,6000000000,Various,2025
+Lila Sciences (Seed),200000000,Seed,AI,Science,San Francisco,USA,North America,Yes,AI for Science,,Flagship Pioneering,2025
+Base Power,200000000,Series B,Cleantech,Energy Storage,Austin,USA,North America,No,,,Various,2025
+Persona,200000000,Series D,Cybersecurity,Identity,San Francisco,USA,North America,Partially,,"Founders Fund, Ribbit Capital",2025
+Electra,186000000,Series B,Cleantech,Materials,Boulder,USA,North America,No,,,Various,2025
+Antares Therapeutics,177000000,Series A,Biotech,Oncology,USA,USA,North America,No,,,Various,Jun-2025
+Syremis Therapeutics,165000000,Series A,Biotech,Neurology,USA,USA,North America,No,,,Various,2025
+Chestnut Carbon,160000000,Series B,Cleantech,Carbon Capture,USA,USA,North America,No,,,Various,2025
+Strand Therapeutics,153000000,Series B,Biotech,mRNA,USA,USA,North America,No,,,Various,2025
+Distalmotion,150000000,Growth,Healthtech,Surgical Robotics,Lausanne,Switzerland,Europe,Partially,,,Various,2025
+SpliceBio,135000000,Series B,Biotech,Gene Therapy,USA,USA,North America,No,,,"Sanofi, Roche",2025
+7AI,130000000,Growth,AI,Cybersecurity,USA,USA,North America,Yes,AI Security,,Various,2025
+Neura Robotics,123000000,Series B,Robotics,Humanoid,Stuttgart,Germany,Europe,Yes,Physical AI,,Various,2025
+Merida Biosciences,121000000,Series A,Biotech,General,USA,USA,North America,No,,,"Bain Capital, Third Rock",2025
+Pelage Pharmaceuticals,120000000,Series B,Biotech,Dermatology,USA,USA,North America,No,,,"Arch Venture Partners, Google GV",2025
+Dyna Robotics,120000000,Series B,AI,Robotics,USA,USA,North America,Yes,Physical AI,,Various,2025
+Antithesis,105000000,Series A,DevTools,Testing,USA,USA,North America,No,,,Jane Street Capital,2025
+You.com,100000000,Series C,AI,Search,San Francisco,USA,North America,Yes,AI Search,1500000000,Cox Enterprises,2025
+Upscale AI,100000000,Seed,AI,Infrastructure,USA,USA,North America,Yes,AI Infrastructure,,"Maverick Silicon, Mayfield",2025
+Syneron Bio,100000000,Series A Extension,Biotech,General,USA,USA,North America,No,,,"AstraZeneca, Pfizer",2025
+SmartHR,96000000,Strategic,Enterprise SaaS,HR Software,Tokyo,Japan,Asia,No,,,General Atlantic,2025
+Amperesand,80000000,Series A,Cleantech,Energy,Singapore,Singapore,Asia,No,,,"Walden Catalyst, Temasek",2025
+Mosanna Therapeutics,80000000,Series A,Biotech,Sleep Apnea,USA,USA,North America,No,,,Various,2025
+Zepto,450000000,Pre-IPO,Consumer,Quick Commerce,Mumbai,India,Asia,No,,7000000000,Various,2025
+GIVA,61500000,Series C,Consumer,D2C Jewelry,India,India,Asia,No,,,Creaegis,2025
+Snitch,40000000,Series B,Consumer,D2C Fashion,India,India,Asia,No,,,Various,Jun-2025
+Zhipu AI,400000000,Growth,AI,Foundation Models,Beijing,China,Asia,Yes,Core AI,,State-backed,2025
